@@ -6,17 +6,6 @@
 
 ## 📝 最新文章
 
-### Demo演示系列
-
-| Demo | 技术栈 | 描述 | 链接 |
-|------|--------|------|------|
-| **AI PC** | Tauri+Vue+Rust | 跨平台AI桌面应用 | [阅读](./demos/ai-pc-demo.md) |
-| **AI Gaming** | Blaze AI | 智能NPC行为系统 | [阅读](./demos/ai-gaming-demo.md) |
-| **AI Streaming** | RTMP+AI | 低延迟视频直播 | [阅读](./demos/ai-streaming-demo.md) |
-| **AI World Model** | Encoder-Predictor | 物理世界模拟 | [阅读](./demos/ai-world-model-demo.md) |
-| **Autonomous Driving** | Apollo架构 | 自动驾驶分层架构 | [阅读](./demos/autonomous-driving-demo.md) |
-| **OpenClaw Agent** | Gateway+ACP | 多平台智能体 | [阅读](./demos/openclaw-agent-demo.md) |
-| **更多Demo** | - | 14个完整演示 | [查看全部](./demos/) |
 
 ### 2026年2月
 
@@ -71,6 +60,18 @@
 
 回顾80年计算架构演进史，分析冯·诺依曼架构的局限性，展望Agent-First架构的未来。一场从"程序执行"到"智能体运行"的范式转换正在发生。
 
+---
+### Demo演示系列
+
+| Demo | 技术栈 | 描述 | 链接 |
+|------|--------|------|------|
+| **AI PC** | Tauri+Vue+Rust | 跨平台AI桌面应用 | [阅读](./demos/ai-pc-demo.md) |
+| **AI Gaming** | Blaze AI | 智能NPC行为系统 | [阅读](./demos/ai-gaming-demo.md) |
+| **AI Streaming** | RTMP+AI | 低延迟视频直播 | [阅读](./demos/ai-streaming-demo.md) |
+| **AI World Model** | Encoder-Predictor | 物理世界模拟 | [阅读](./demos/ai-world-model-demo.md) |
+| **Autonomous Driving** | Apollo架构 | 自动驾驶分层架构 | [阅读](./demos/autonomous-driving-demo.md) |
+| **OpenClaw Agent** | Gateway+ACP | 多平台智能体 | [阅读](./demos/openclaw-agent-demo.md) |
+| **更多Demo** | - | 14个完整演示 | [查看全部](./demos/) |
 ---
 
 ## 🏷️ 标签分类
